@@ -1,1 +1,1 @@
-# plagGen
+# Plagiarism Generator (for a hackathon)
